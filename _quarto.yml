@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Elena Zhang portfolio website"
+author-meta: "Elena Zhang"
 
 website:
-  title: "Quarto Academic"
+  title: "Elena Zhang"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Elena Zhang"
  
   navbar:
-    background: light  # You can change the background color here
+    background: dark  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
@@ -58,8 +58,8 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "Elena Zhang(https://github.com/elzhang19) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Made with [Quarto](https://quarto.org/)"
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
